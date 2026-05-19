@@ -1,0 +1,125 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pyenv
+python-version
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database files
+*.sqlite3
+*.db
+
+# Cache
+.cache/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Model artifacts and weights
+/model/
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.joblib
+*.sav
+
+# Large datasets (keep out of repo; use external storage or Git LFS)
+/datasets/
+/emails/
+
+# Frontend
+/frontend/node_modules/
+/frontend/build/
+
+# Sensitive or environment files
+.env
+.env.*
+
+# Other
+*.tar.gz
+*.zip
+*.tgz
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.venv/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/secrets.toml
+.env
+
+# Local data / artifacts (keep out of git)
+*.db
+datasets/*.csv
+model/*.pkl
+emails/**/*
+!emails/.gitkeep
+!emails/**/.gitkeep
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
