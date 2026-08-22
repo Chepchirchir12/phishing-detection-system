@@ -1,6 +1,6 @@
 # Phishing Detection and Analysis System
 
-A high-performance, cybersecurity solution designed for real-time phishing detection and email analysis. It utilizes a **Hybrid Intelligence Architecture** that that merges logistic regression with TF-IDF analysis to produce a sophisticated model
+A high-performance, cybersecurity solution designed for real-time phishing detection and email analysis. It utilizes a **Hybrid Intelligence Architecture** that that merges logistic regression with[...]
 
 ## Key Features
 
@@ -10,6 +10,12 @@ A high-performance, cybersecurity solution designed for real-time phishing detec
 - **Two-Way Deletion Sync**: Automatically removes local copies of emails that have been deleted from your actual inbox.
 - **Real-Time Paste Analysis**: A dedicated portal to manually paste and analyze suspicious emails before they are even opened.
 - **Decoupled Architecture**: Modern FastAPI backend and React frontend styled with Tailwind CSS.
+
+## Dashboard Preview
+
+![PhishGuard Dashboard](./dashboard.png)
+
+---
 
 ## Tech Stack
 
@@ -92,4 +98,3 @@ PhishGuard analyzes emails through a four-stage sequential pipeline:
 - `/xai`: Explainability logic.
 - `api.py`: FastAPI server entry point.
 - `train_enhanced_model.py`: Training pipeline for the detection models.
-
