@@ -13,7 +13,7 @@ A high-performance, cybersecurity solution designed for real-time phishing detec
 
 ## Dashboard Preview
 
-![PhishGuard Dashboard](./dashboard.png)
+![PhishGuard Dashboard](./assets/image.png)
 
 ---
 
