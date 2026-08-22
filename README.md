@@ -1,6 +1,6 @@
-# PhishGuard: Advanced Phishing Detection & Forensic Analysis System
+# Phishing Detection and Analysis System
 
-PhishGuard is a high-performance, cybersecurity solution designed for real-time phishing detection and email forensic analysis. It utilizes a **Hybrid Intelligence Architecture** that merges calibrated Machine Learning (ML) models with a sophisticated heuristic inference layer and Explainable AI (XAI).
+A high-performance, cybersecurity solution designed for real-time phishing detection and email analysis. It utilizes a **Hybrid Intelligence Architecture** that that merges logistic regression with TF-IDF analysis to produce a sophisticated model
 
 ## Key Features
 
